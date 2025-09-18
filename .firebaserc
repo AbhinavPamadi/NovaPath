@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "novapath-fb8de",
+    "staging": "novapath-fb8de"
+  },
+  "targets": {},
+  "etags": {}
+}
